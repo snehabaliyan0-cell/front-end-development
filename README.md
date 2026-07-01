@@ -1,4 +1,4 @@
 # front-end-development
 This is my first Git Repository.
 <br>
-Author - Sneha Baliyan
+Author - Sneha Baliyan dulhera
